@@ -236,3 +236,5 @@ Contact
 * cangermueller@gmail.com
 * https://cangermueller.com
 * `@cangermueller <https://twitter.com/cangermueller>`_
+
+Cloned for the Mukamel lab
